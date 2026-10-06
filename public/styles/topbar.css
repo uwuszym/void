@@ -1,0 +1,7 @@
+body { padding: 0px; margin: 0px; }
+#signup-topbar { background-color: rgba(0, 0, 0, 0.35); min-height: 66px; }
+#signup-topbar a { position: inherit; display: inline; margin: 8px; padding: 6px; color: white; text-decoration: none; }
+#signup-topbar a.active { text-decoration: underline; }
+#topbar-logo-signup { width: 36px; margin-left: 20%; margin-top: .5%; }
+#login { float: right; margin: 10px; margin-right: 27.5%; }
+#login form input { padding: 10px; }
